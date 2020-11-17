@@ -19,7 +19,7 @@
 [Download](https://github.com/UNIVALI-LITE/Portugol-Studio/releases/)
 
 <i>Códigos de algoritmos realizados em Portugol Studio no Bootcamp Back-end Developer Carrefour da Digital Innovation One.
-Neste, Lógica de Programação, um dos 25 cursos do bootcamp.</i>
+Nest curso, Lógica de Programação, que é um dos 25 cursos do bootcamp.</i>
 
 <i><b>Para rodar os códigos, deve realizar o download e instalação do sistema, e clonar este repositório</b></i>
 
