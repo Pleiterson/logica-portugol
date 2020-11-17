@@ -32,10 +32,10 @@ fonte: https://pt.wikipedia.org/wiki/Portugol_Studio
 <h3>📝 Licença</h3>
 
 Este projeto está sob a licença [MIT](./LICENSE).
-
+<br><br>
 
 <p align="center"><img src="https://imgur.com/PQ7M73U.png"></p>
 
 
 <!--Bottom session-->
-<h4 align=center>Made with by <a href="https://www.linkedin.com/in/pleiterson">Pleiterson Amorim</a></h4>
+<br><h4 align=center>Made with by <a target="_blank" href="https://pleiterson.vercel.app" >Pleiterson Amorim</a></h4>
